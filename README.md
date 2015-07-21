@@ -6,7 +6,7 @@ Introduction
 -------
 These are the CAD files for Hummingbird Hammock's products and accessories, also included are a list of materials and instructions on assembly and usage.
 
-We do not guarantee the accuracy of the DXF files for direct use on a laser cutter. Every laser cutter is slightly different and you might have to make adjustments in order for the files to meet your needs.
+We do not guarantee the accuracy of the DXF files for direct use on an automatic cutter (laser, cnc or otherwise.) Every cutter is slightly different and you might have to make adjustments in order for the files to meet your needs.
 
 If you notice any problems with the files please submit them as issues.
 
