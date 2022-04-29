@@ -3,7 +3,7 @@ Thumbs.db
 ehthumbs.db
 
 # Folder config file
-Desktop.ini
+desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
@@ -45,3 +45,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Internal Directories
+Tag
+Tags
+Photos
+Pictures
+Bag
+Bags
+ProductImages
+ProductPhotos
+Barcodes
+Barcode
+Stickers
